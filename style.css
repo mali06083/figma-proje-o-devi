@@ -1,0 +1,230 @@
+.bi-cursor-fill{
+    color: aqua;
+}
+.navbar-brand {
+    margin-left: 10%;
+
+}
+
+.navbar-nav {
+    margin-right: 10%;
+}
+
+.picture {
+    margin-right: 0%;
+    margin-left: 0%;
+}
+
+.image {
+    margin-bottom: 50px height: 50%;
+
+}
+
+
+.image-container {
+    position: relative;
+    display: inline-block;
+}
+
+.image-container img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.overlay-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 40px;
+    text-align: center;
+}
+
+.overlay-text2 {
+    position: absolute;
+    left: 50%;
+    top: 60%;
+    transform: translate(-50%, -50%);
+    text: white -50px;
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 15px;
+    text-align: center;
+
+}
+
+
+.btn {
+    position: absolute;
+    left: 45%;
+    top: 70%;
+
+
+}
+
+.btn-close-white {
+    padding-top: 0px !important;
+    padding-inline: 20px !important;
+    padding-bottom: 30px !important;
+    background-color: rgba(255, 255, 255, 0.027) !important;
+    border-color: rgb(255, 255, 255) !important;
+}
+
+.h2 {
+    font-size: 32px;
+    background: rgb(92, 90, 90) !important;
+    font: arial;
+    font-weight: 400;
+    text-align: center;
+    line-height: 35px;
+
+}
+
+.hr {
+
+    background-color: #fff;
+    padding: 0;
+    margin: 80px;
+
+}
+
+.hr-1 {
+
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+
+
+}
+
+.meet-our-container {
+    background-image: url(/assets/img/PHOTO-2024-07-27-19-10-09\ 14.jpg);
+}
+
+.our-img {
+    border-radius: 50%;
+    height: 250px;
+    width: 250px;
+    object-fit: cover;
+}
+
+.bi-linkedin {
+    color: white;
+    border-radius: 50%;
+    margin-left: 30px !important;
+
+}
+
+.bi-twitter {
+    color: white;
+    border-radius: 50%;
+    margin-left: 30px !important;
+
+
+}
+
+.bi-facebook {
+    color: white;
+    border-radius: 50%;
+    margin-left: 30px !important;
+
+
+}
+
+.bi-geo-alt-fill {
+    color: rgba(58, 183, 203, 1);
+    width: 10px;
+    height: 35px;
+    top: 29.15px;
+    margin-left: 19px;
+
+
+}
+
+
+
+.bi-envelope {
+    color: rgba(58, 183, 203, 1);
+    width: 10px;
+    height: 35px;
+    top: 40px;
+
+}
+
+
+.bi-telephone {
+    color: rgba(58, 183, 203, 1);
+    width: 10px;
+    height: 35px;
+    top: 40px;
+    top: 29.15px;
+    margin-left: 10px;
+}
+
+.footer {
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+    text-align: center;
+    background: rgba(43, 43, 43, 1);
+
+}
+
+.fa-linkedin-in {
+    color: white;
+
+
+   
+}
+
+.fa-google {
+    color: white;
+   
+
+
+}
+
+.fa-twitter {
+    color: white;
+
+
+
+}
+
+.fa-facebook-f {
+    color: white;
+    
+
+
+}
+
+.image-container2 {
+
+    background-image: url(assets/img/PHOTO-2024-07-27-19-10-09\ 14.jpg);
+}
+
+.bi-display {
+    color: rgba(192, 237, 93, 1);
+
+}
+
+.bi-gear {
+    color: rgba(192, 237, 93, 1);
+}
+
+.bi-0-circle {
+    color: rgba(192, 237, 93, 1);
+}
+
+.bi-bag {
+    color: rgba(192, 237, 93, 1);
+}
+
+
+i {
+    justify-content: left;
+    
+}
